@@ -111,4 +111,4 @@ git clone <копия чужого удаленного репозитория>
 git push --set-upstream origin new
 ```
 Зайти в удаленный репозиторий, выбрать новую ветку 
-Использовать команду ***Pull request*** - ***new pull request***
+Использовать команду ***Pull request*** - ***new pull request*** выбираем нужную нам ветку и нажимаем ***create pul request***
